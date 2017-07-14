@@ -4,7 +4,7 @@
 
 ![Markdown](http://i4.piimg.com/1949/af2a87e889d29664.png)
 
-> 使用正则表达式判断字符是否为电话号码，用YYLable进行分文本电话拨打
+> 使用正则表达式判断字符是否为电话号码，用YYLable进行富文本电话拨打
 
 ## 使用
  - 引入Masonry,YYkit库
